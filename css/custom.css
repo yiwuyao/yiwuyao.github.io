@@ -112,6 +112,6 @@ h3 {
 /*Publiaction image style*/
 @media (min-width: 768px) {
   .grabs{
-	max-width: 35%;
+	max-width: 50%;
 	}
 }
