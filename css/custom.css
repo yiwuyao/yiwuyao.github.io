@@ -46,7 +46,7 @@ a:hover {
 }
 
 .whatsup {	
-	height: 27vh;
+	max-height: 30vh;
 	overflow: auto;
 	background-color: #EEEEEE;
 	padding: 0 0.5em;
