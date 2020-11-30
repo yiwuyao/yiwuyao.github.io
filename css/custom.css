@@ -127,3 +127,7 @@ h3 {
 .fa-js-square {
 	color: #F0DB4F;
 }
+
+.flex-shrink-0 {
+	text-align: right;
+}
